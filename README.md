@@ -29,12 +29,12 @@ Found here: https://github.com/GrantHilgert/GooseTools
 + Added Spawn Items to menu. This will only teleport the item to the goose. (Saves the game lagging for lower end PCs)
 	There are a handful of items missing either the wrong item name code or teleports you to the items original position, Will invetigate for next update.
 + Added 3 sections of teleports to menu
-	Section 1 is Speedrun locations
-		Geesus Clip, Pub Clip, Blink Clip, Tower Clip, Bridge Clip and House Clip.
-	Section 2 is Area locations
-		Starting Area, Statue/Bench, Garden, High Street, Back Gardens, Pink House, Pub and Mini Village.
-	Section 3 is Fun/OOB locations
-		Above the back of pub, Back Garden's Skybox, Above the hole by well, Roof of the Pink House, Outside the Map by picnic area, Outside the map behind the bell pit, Outside the map on the other side of Mini Village, Above the skybox in the middle threshold of map and Above the Bell pit (shorter part for xZeKos bell clip trials)
+	+ Section 1 is Speedrun locations
+		+ Geesus Clip, Pub Clip, Blink Clip, Tower Clip, Bridge Clip and House Clip.
+	+ Section 2 is Area locations
+		+ Starting Area, Statue/Bench, Garden, High Street, Back Gardens, Pink House, Pub and Mini Village.
+	+ Section 3 is Fun/OOB locations
+		+ Above the back of pub, Back Garden's Skybox, Above the hole by well, Roof of the Pink House, Outside the Map by picnic area, Outside the map behind the bell pit, Outside the map on the other side of Mini Village, Above the skybox in the middle threshold of map and Above the Bell pit (shorter part for xZeKos bell clip trials)
 
 + Added Experimental page to menu. (Please use with caution as you can freeze/break the game)
 + Added Clone/Destroy Goose/People to menu
