@@ -1,6 +1,6 @@
 # Dev Goose
 # <h2> About
-Dev Goose is a mod menu for Untitled Goose Game
+Dev Goose is a mod menu for Untitled Goose Game.
 BradCubed was the original creator of [TASGoose](https://github.com/BradCubed/TASGoose) where a few options were available.
 xZeKo has been updating it since, including the new Mod Menu, he changed the name from TASGoose to GooseTools, then found there was another program for goose called [GooseTools](https://github.com/GrantHilgert/GooseTools) so now has changed it to Dev Goose.
 DevChagrins also helped with a few bits. DevChagrins started building the multiplayer version of Goose before HouseHouse made it multiplayer [GooseNest](https://github.com/DevChagrins/GooseNest).
