@@ -53,23 +53,22 @@ Found here: https://github.com/GrantHilgert/GooseTools
 + Added UGG Speedrun Page to menu
 
 + Added Keys
-	Spawn Timmy: CTRL + B
-	Clone Goose: CTRL + P
-	Bring All Gameobjects to Goose CTRL + 2 (Will Break Game)
-	3rd Person Goose: J
-	Free Cam by 0x0ade: O
-	Remove/replace Top right and middle text: RIGHT-SHIFT
+	+ Spawn Timmy: CTRL + B
+	+ Bring All Gameobjects to Goose CTRL + 2 (Will Break Game)
+	+ 3rd Person Goose: J
+	+ Free Cam by 0x0ade: O
+	+ Remove/replace Top right and middle text: RIGHT-SHIFT
 
- Command Keys removed and added to the menu:
-	Teleport Goose to 2oose
-	Teleport 2oose to Goose
-	Wireframe
-	Create Cube/Capsule
-	Sizes of Goose
-	Game Speed
+ + Command Keys removed and added to the menu:
+	+ Teleport Goose to 2oose
+	+ Teleport 2oose to Goose
+	+ Wireframe
+	+ Create Cube/Capsule
+	+ Sizes of Goose
+	+ Game Speed
 
-- Changed Keys
-	Remove AI: CTRL+ B to  K
++ Changed Keys
+	+ Remove AI: CTRL+ B to  K
 
 There is probably more changes I have forgot, sorry!
 
