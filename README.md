@@ -5,6 +5,10 @@ BradCubed was the original creator of [TASGoose](https://github.com/BradCubed/TA
 xZeKo has been updating it since, including the new Mod Menu, he changed the name from TASGoose to GooseTools, then found there was another program for goose called [GooseTools](https://github.com/GrantHilgert/GooseTools) so now has changed it to Dev Goose.
 DevChagrins also helped with a few bits. DevChagrins started building the multiplayer version of Goose before HouseHouse made it multiplayer [GooseNest](https://github.com/DevChagrins/GooseNest).
 
+# <h2> v3.1 Changelog	
+Fixed noclip support for controllers
+Fixed blink spawning in speedrun items
+	
 # <h2> v3 Changelog
 v3
 Changing the name a finale time from, GooseTools to Dev Goose as there is another external program Called GooseTools and I dont want confliction between the two.
