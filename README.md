@@ -1,4 +1,6 @@
 # Dev Goose
+# <h1> I am archiving this as of now. I cannot give support for the smi_gui injector as its nothing to do with me. If anyone has a how to get the smigui to run without hiccups I will post to their page.
+# <h1> you will have to wait for a melonloader version which is going to be built soon.
 # <h2> About
 Dev Goose is a mod menu for Untitled Goose Game.
 BradCubed was the original creator of [TASGoose](https://github.com/BradCubed/TASGoose) where a few options were available.
