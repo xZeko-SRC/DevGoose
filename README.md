@@ -1,4 +1,4 @@
-<center> # DevGoose is now Honk Menu! Please visit [Honk Menu](https://github.com/xZeko-SRC/Honk-Menu) for the Melonloader update!
+# DevGoose is now Honk Menu! Please visit [Honk Menu](https://github.com/xZeko-SRC/Honk-Menu) for the Melonloader update!
 
  <h2> This is a final update to the DevGoose archive. </h2>
 
